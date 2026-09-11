@@ -1,0 +1,11 @@
+{
+  "name": "fireworks-opencode-plugins",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@opencode-ai/plugin": "^1.18.30"
+  },
+  "devDependencies": {
+    "@types/node": "^22.20.2"
+  }
+}
